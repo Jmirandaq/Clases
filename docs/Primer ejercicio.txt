@@ -1,3 +1,5 @@
+Primer ejercicio
+
 Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”
 https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 
@@ -31,3 +33,4 @@ explicar este tipo de cosas y no le hacía falta explicar la interacción con un
 mayor escala porque se puede extrapolar facilmente. 
 
 No es que se trate de una mala forma de visualizar un contagio per se, pero no es muy interesante de ver.
+
