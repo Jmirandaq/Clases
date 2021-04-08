@@ -1,7 +1,7 @@
-Primer ejercicio
+# Primer ejercicio
 
-Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”
-https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
+[Link to "Why outbreaks like coronavirus spread exponentially, and how to "flatten the curve""]
+(https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
 Toda la visualización se centra en dar varios ejemplos de situaciones en las que el coronavirus se propaga para justificar 
 la cuarentena a una sociedad que teme perder su libertad a toda costa. Y esos ejemplos se basan en simulaciones de bolas
@@ -11,14 +11,17 @@ Tras ello, vienen explicaciones de expertos de la razón por la cual esta situac
 se recopilan los resultados de los cuatro ejemplos y se muestran en varias curvas que tendrían que darte la evidencia que se
 necesita para seguir este distanciamiento social que se propone. 
 
+## Problemas
 Hay varios problemas que le veo a este modo de exposición. El primero es que han basado toda la noticia en estas simulaciones,
 y aunque gana en realismo, lo que te vas a encontrar es una noticia que no cambia mucho excepto por estas simulaciones.
 Visualmente hablando, no es muy entretenido ver bolitas chocarse entre ellas, y como el resto de la noticia está en blanco, es
 lo único que se tiene. Lo segundo es que ni siquiera este "realismo" está garantizado, porque ellos mismos dicen que este virus
 que están simulando en algunas partes de las simulaciones es más contagioso que el Coronavirus. Luego, casi al final, se dice que
 si se quiere ser más realista, algunas bolas tienen que desaparecer. Si quieres concienciar a la gente, con estos ejemplos, 
-yo creo que habría que darles la simulación de la forma más relevante desde el principio. 
+yo creo que habría que darles la simulación de la forma más relevante desde el principio. Otro problema es que estas simulaciones son fidedignas para lugares abiertos, pero, ¿qué hay de los cerrados? El País se molestó por explicar este tipo de cosas y no le hacía falta explicar la interacción con una situación de 
+mayor escala porque se puede extrapolar facilmente. 
 
+### Conclusiones
 Más allá de eso, no hay mucha interactividad en esta visualización aparte de estar haciendo scroll hacia abajo y observando las bolas
 moverse, sobre todo porque la publicación trata enteramente de estas comparativas entre distintas situaciones. Con el fin de centrarlo
 en los usuarios de movil, no han utilizado bien el espacio para complementar estas simulaciones. Por otro lado, hay que tomar el contexto de
@@ -27,10 +30,6 @@ así que hay preguntas que no pudieron resolver en su momento en algo tan import
 de movilidad cuando llegase el momento. Y si ese era el objetivo, lo mismo se podía cambiar el símbolo de las bolas por caras, que es lo
 más sencillo, haber metido quizá las opiniones de las personas que se meten en un bocadillo, haber separado en partes el texto con cada
 uno de las simulaciones en cada una de ellas, etc. En su lugar, han dado enlace a otras publicaciones y poco más.
-
-Otro problema es que estas simulaciones son fidedignas para lugares abiertos, pero, ¿qué hay de los cerrados? El País se molestó por 
-explicar este tipo de cosas y no le hacía falta explicar la interacción con una situación de 
-mayor escala porque se puede extrapolar facilmente. 
 
 No es que se trate de una mala forma de visualizar un contagio per se, pero no es muy interesante de ver.
 
