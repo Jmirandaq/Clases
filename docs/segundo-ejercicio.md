@@ -29,7 +29,7 @@ Al final, el gráfico representa de forma precisa las incidencias que causarían
 hace que ocupen quizá demasiado. Se especifica la diferencia de casos en cada una de las fases y lo que significa por el otro lado de la balanza. 
 Los datos siguen sin ser tan alarmantes como deberían, pero está claro que vacunarse es más viable que no hacerlo.
 
-#Segundo gráfico
+# Segundo gráfico
 Lo que sí que se nota es que las cifras representan una media entre la gente más joven y más anciana. En la siguiente tabla de datos, se divide por
 grupos de diez años en diez años, primero sin vacuna y luego con vacuna por las cuatro fases de que se han mencionado. La tabla como tal es muy simple, 
 pero le da una mayor urgencia de la que tenía antes, porque conforme la edad va aumentando, las cifras de contagios, hospitalizaciones y defunciones 
