@@ -1,4 +1,5 @@
 # Primer ejercicio
+(https://github.com/Jmirandaq/Clases/blob/main/docs/images/nueva-york.jpg)
 
 [Link to "Why outbreaks like coronavirus spread exponentially, and how to "flatten the curve""]
 (https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
