@@ -34,5 +34,7 @@ Lo que sí que se nota es que las cifras representan una media entre la gente m�
 grupos de diez años en diez años, primero sin vacuna y luego con vacuna por las cuatro fases de que se han mencionado. La tabla como tal es muy simple, 
 pero le da una mayor urgencia de la que tenía antes, porque conforme la edad va aumentando, las cifras de contagios, hospitalizaciones y defunciones 
 también lo hace. Pone en perspectiva toda la publicidad que se ha hecho con el hecho de ser responsable con las medidas establecidas.
+![tabla](https://github.com/Jmirandaq/Clases/blob/main/docs/images/tabla.jpg.png)
+
 
 
