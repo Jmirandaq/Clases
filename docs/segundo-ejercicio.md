@@ -36,5 +36,16 @@ pero le da una mayor urgencia de la que tenía antes, porque conforme la edad va
 también lo hace. Pone en perspectiva toda la publicidad que se ha hecho con el hecho de ser responsable con las medidas establecidas.
 ![tabla](https://github.com/Jmirandaq/Clases/blob/main/docs/images/tabla.jpg.png)
 
+Finalmente, ponen la cantidad de personas contagiadas con la edad del grupo en relación y generan una diferencia incluso mayor por el hecho de vacunarse o
+no. Este último gráfico es interactivo y en él se puede elegir la probabilidad de contagio y la edad del grupo. Igual que antes, muy sencillo, pero te da
+una mayor libertad de acción con la información y concluye bien lo que viene siendo la retahila de datos.
+
+# Conclusión
+Al tratarse de un tema tan delicado como el del coronavirus, no puedes invadir tus gráficos de colorines y de decisiones rimbombantes a la hora de interactuar.
+Se ha decidido que prime la seriedad y hasta el fondo del artículo muestra esto. Conforme a la cantidad de información que hay en el artículo, la implementación
+de los artículos es correcta y se asegura que no se relativice. Esta decisión lo hace un poco soso de ver, pero creo que es un precio bien pagado. 
+
+
+
 
 
