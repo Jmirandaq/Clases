@@ -11,8 +11,28 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
+	<style>
+		form{}
+        *{border: lpx solid black};
+        div {margin: .4em 0;}
+        div label { width: 100%; float: left;}
+        .derecha {width:30%; float: right;}
+        span{color: black};
+        .izquierda {background-color: white}
+        .logoimg {
+            max-width: 100%;
+            max-height: 100%;
 	<body class="is-preload">
+		
+	</style>
+	<script>
+	function validar() {
+            var mi_nombre = document.getElementById("nombre").value;
+            var mis_apellidos = document.getElementById("apellidos").value;
+            var mi_correo = document.getElementById ("correo").value;
+	<body class="is-preload">
+	</script>
+	</head>
 
 		<!-- Wrapper -->
 			<div id="wrapper">
@@ -60,7 +80,7 @@
 								<ul class="features">
 									<li>
 										<figure>
-                                                                                 <span class= "image"> <img src="images/nueva-york.jpg" alt=" " /></span> </figure>
+                                                                                 <span class= "image"> <img src="images/mini-newyork.jpg.png" alt=" " /></span> </figure>
 										<a href="https://jmirandaq.github.io/Clases/primer-ejercicio.html"><h3>Primer ejercicio</h3></a></li>
 										<p>Descripción general de visualización del año 2020.</p> 
 									
@@ -84,35 +104,22 @@
 
 						<!-- Second Section -->
 							<section id="second" class="main special">
-								<header class="major">
-									<h2>Contacto</h2>
-									<p>Descarga de datos y descripción de proceso</p>
-								</header>
-								<ul class="statistics">
-									<li class="style1">
-										<span class="icon solid fa-code-branch"></span>
-										<strong>5,120</strong> Etiam
-									</li>
-									<li class="style2">
-										<span class="icon fa-folder-open"></span>
-										<strong>8,192</strong> Magna
-									</li>
-									<li class="style3">
-										<span class="icon solid fa-signal"></span>
-										<strong>2,048</strong> Tempus
-									</li>
-									<li class="style4">
-										<span class="icon solid fa-laptop"></span>
-										<strong>4,096</strong> Aliquam
-									</li>
-									<li class="style5">
-										<span class="icon fa-gem"></span>
-										<strong>1,024</strong> Nullam
-									</li>
-								</ul>
-								<p class="content">Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum ac arcu sit amet, fermentum pellentesque et purus. Integer maximus varius lorem, sed convallis diam accumsan sed. Etiam porttitor placerat sapien, sed eleifend a enim pulvinar faucibus semper quis ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer eget purus nec nulla mattis et accumsan ut magna libero. Morbi auctor iaculis porttitor. Sed ut magna ac risus et hendrerit scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras eu ornare dui curabitur lacinia.</p>
-								<footer class="major">
-								</footer>
+								<div class="container">
+									<header>
+										<h2>Contacto</h2>
+									</header>
+									<form method="post" action=" ">
+										<div class="row">
+											<div class="col-6 col-12">
+												<input type="text" "name" placeholder="Nombre">
+											</div>
+											<div class="col-6 col-12">
+												<input type="text" "name" placeholder="Email">
+											</div>
+										<div class="row">
+											<div class="col-12">
+												<input type="textarea" name="message" placeholder="Mensaje">
+											</div>
 							</section>
 
 					</div>
