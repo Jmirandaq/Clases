@@ -46,6 +46,7 @@
                   <br>
                   <p>Lo primero de todo, he de decir que este gráfico lo he elegido como comparativa del PIB entre la trayectoria del año 2019 hasta finales de 2020, 
                   en mitad de la pandemia, para ver cómo cambian los datos</p>
+		  <img src="images/pantallazo1.png" alt=" " style="width:90%" margin:10px auto/>
                   <br>
                   <p>Dicho esto, lo primero que quise hacer fue descargármelos e inspeccionarlos en cygwin. No conseguí descargarlo a ningún repositorio dentro de la home principal,
                   pero conseguí localizarlo en mi ordenador una vez que lo hube descargado por el método tradicional</p>
@@ -53,6 +54,7 @@
                   te enseña las 10 últimas, así puedes comprobar si hay algún cambio en el archivo antes de abrirlo. En mi caso, el archivo tiene exactamente 10 líneas, así que ha coincidido,
                   y no tiene mucho problema con el idioma tampoco, porque no hay ninguna tilde. Supongo que puedo hacer un comando "head -5" para ver solo las 5 primeras
                   , pero no es que importe mucho.
+		  <<img src="images/pantallazo2.png" alt=" " style="width:90%" margin:10px auto/>
                  <br>
                  Después de eso, he utilizado "du sh" para comprobar el peso del archivo, y en este caso que pesa 4 "OK". "Wc -l" ha sido más
                  concreto, sin embargo, contando la friolera de más de 11 palabras en el documento.
