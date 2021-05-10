@@ -18,13 +18,14 @@
 		<!-- Wrapper -->
 			<div id="header">
 						<span class="logo"><img src="images/logo.svg" alt="" /></span>
-						<h1>Primer ejercicio</h1>
+						<h1>Tercer ejercicio</h1>
 					</header>
 
 				<!-- Nav -->
 					<nav id="nav" margin: 20px auto;>
 						<ul>
 							<li><a href="#presentacion">Presentación</a></li>
+							<li><a href="https://jmirandaq.github.io/Clases/">Página principal</a></li>
 						</ul>
 					</nav>
 	        </div>
@@ -34,18 +35,18 @@
 
 						<!-- Introduction -->
 						<section class="juntar">
-							<div class="container">						
+							<div class="container" margin-top: 5px;>						
 								<h1 class="presentacion"></h1>
 								<figure>
 								<p><img src="images/graficoVDD.png" style="width:90%";margin:10px auto; alt= " "/> 
 									<figcaption><a href="https://www.washingtonpost.com/graphics/2020/world/corona-simulator/" class="center">“Why outbreaks like coronavirus spread exponentially, and how to”flatten the curve"</a></figcaption>
 									</figure>
 									<br>
-                  En este ejercicio voy a explicar los pasos que se necesitan dar para analizar este gráfico del INE en cygwin
+                  En este ejercicio voy a explicar los pasos que se necesitan dar para analizar este gráfico del INE en cygwin.
 									</p>
                   <br>
                   <p>Lo primero de todo, he de decir que este gráfico lo he elegido como comparativa del PIB entre la trayectoria del año 2019 hasta finales de 2020, 
-                  en mitad de la pandemia, para ver cómo cambian los datos</p>
+                  en mitad de la pandemia, para ver cómo cambian los datos.</p>
 		  <img src="images/pantallazo1.png" alt=" " style="width:90%" margin:10px auto/>
                   <br>
                   <p>Dicho esto, lo primero que quise hacer fue descargármelos e inspeccionarlos en cygwin. No conseguí descargarlo a ningún repositorio dentro de la home principal,
@@ -54,12 +55,11 @@
                   te enseña las 10 últimas, así puedes comprobar si hay algún cambio en el archivo antes de abrirlo. En mi caso, el archivo tiene exactamente 10 líneas, así que ha coincidido,
                   y no tiene mucho problema con el idioma tampoco, porque no hay ninguna tilde. Supongo que puedo hacer un comando "head -5" para ver solo las 5 primeras
                   , pero no es que importe mucho.
-		  <<img src="images/pantallazo2.png" alt=" " style="width:90%" margin:10px auto/>
+		  <img src="images/pantallazo2.png" alt=" " style="width:90%" margin:10px auto/>
                  <br>
                  Después de eso, he utilizado "du sh" para comprobar el peso del archivo, y en este caso que pesa 4 "OK". "Wc -l" ha sido más
-                 concreto, sin embargo, contando la friolera de más de 11 palabras en el documento.
-		 <br>
-		 Tras ello, "ls" se utiliza para hacer una lista de directorios, saliendo la misma del archivo y "file" para detectar el formado de "30678bd.csv", por último. Este último está descrito
+                 concreto, sin embargo, contando la friolera de más de 11 palabras en el documento.</p>
+		 <p>Tras ello, "ls" se utiliza para hacer una lista de directorios, saliendo la misma del archivo y "file" para detectar el formado de "30678bd.csv", por último. Este último está descrito
 		 como "ISO-8859 text, with CRLF line terminators".</p>
 										
 										
